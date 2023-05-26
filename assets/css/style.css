@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(167, 96, 96);
+}
+
+th {
+    padding: 8rem;
+    font-size: 20px;
+}
+
+#only {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+
+}
+
+#caption {
+    text-align: left;
+}
+
+.qualification {
+    background-image: url(../imgs/bici-portada.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    height: 40rem;
+}
+
+.header {
+    font-size: 35px;
+    color: rgb(200, 255, 0);
+    padding: 13rem;
+    font-family: "sans-serif"
+}
+
+.mountain {
+    margin-right: 30px;
+    margin-left: 30px;
+    padding: 1em;
+}
+
+.mountain img {
+    cursor: zoom-in;
+    margin-top: 13rem;
+    margin-right: 40px;
+    margin-left: 130px;
+    border: groove 10px black;
+    height: auto; 
+    width: 400px;
+}
+
+.tricks {
+    margin-right: 30px;
+    margin-left: 30px;
+    padding: 1em;
+}
+
+.tricks img {
+    width: 300px;
+    margin-top: 10rem;
+    margin-right: 40px;
+    margin-left: 130px;
+    border: groove 10px black;
+}
+
+.rookie {
+    margin-right: 30px;
+    margin-left: 2em;
+    padding: 1em;
+}
+
+.rookie img {
+    width: 300px;
+    margin-top: 10rem;
+    margin-right: 40px;
+    margin-left: 130px;
+    border: groove 10px black;
+}
+
+.beginners {
+    margin-right: 30px;
+    margin-left: 30px;
+    padding: 1em;
+}
+
+.beginners img {
+    width: 300px;
+    margin-top: 10rem;
+    margin-right: 40px;
+    margin-left: 130px;
+    border: groove 10px black;
+}
+
+.footer {
+    margin-top: 20rem;
+    background-color: rgb(214, 142, 142);
+    padding: 1rem;
+    text-align: center;
+}
